@@ -19,7 +19,7 @@
         <xsl:when test=".='True'">
           <tr bgcolor="#9acd32" style="color:white">
       <td><xsl:value-of select="@datetime"/></td>
-      <td>Ok></td>
+      <td>Ok</td>
     </tr>
         </xsl:when>
         <xsl:otherwise>
